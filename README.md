@@ -1,2 +1,2 @@
-# atat
+# ATAT
 A better TextAnalysisTool.NET
